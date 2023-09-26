@@ -8,5 +8,3 @@ I've finally embraced the data bug that has been buzzing around since my student
 
 👨‍💻 Recently completed a Data Science Bootcamp at [SPICED Academy](https://www.spiced-academy.com/en).  
 🎯 Currently expanding my skills at [42](https://42berlin.de/) on the path to becoming a Data Scientist and exploring Berlin's tech scene.
-
-Let's connect and explore the data-driven world together! 🔍
