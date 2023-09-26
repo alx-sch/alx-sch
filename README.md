@@ -7,4 +7,4 @@ Technology has always fascinated me, and people intrigue me even more. The inter
 I've finally embraced the data bug that has been buzzing around since my student days, accompanying me in all my roles. Now, I've caught up with this long-time fascination of deciphering data, delving into their patterns to drive innovative solutions. I love telling stories through my analysis and making insights accessible to everyone! 🌟 
 
 👨‍💻 Recently completed a Data Science Bootcamp at [SPICED Academy](https://www.spiced-academy.com/en).  
-🎯 Currently expanding my skills at [42](https://42berlin.de/) on the path to becoming a Data Scientist and exploring Berlin's tech scene.
+🎯 Currently expanding my skills at [42](https://42berlin.de/) on the path to becoming a Data Scientist.
