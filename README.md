@@ -1,6 +1,6 @@
 ## About Me
 
-Biochemical scientist turned funding consultant turned startup enthusiast with a passion for data and coding! 🧪 💰 🧑‍💻
+Biochemist turned funding consultant turned startup enthusiast with a passion for data and coding! 🧪 💰 🧑‍💻
 
 Technology has always fascinated me, and people intrigue me even more. The interplay between the two, how technology shapes lives, is super captivating! With a knack for unraveling complexity and a gift for communicating ideas and visions, I've not only secured funding in the millions for dozens of R&D projects but also wrangled the whirlwind of a tech startup's operations.
 
