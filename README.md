@@ -8,7 +8,9 @@ I build robust and efficient software, translating complex problems into elegant
 #### 🚀 Featured Projects
 
 - **[nostr-nomad](https://github.com/alx-sch/nostr-nomad):** A Python-based developer utility for migrating content from Substack to the decentralized Nostr protocol, featuring API integration and image re-hosting.
-asas
+- **[minishell](https://github.com/alx-sch/minishell):** A lightweight, custom shell built from scratch in C that faithfully reproduces core Bash functionalities like command execution, pipes, and I/O redirection through direct system calls.
+- **[Inception](https://github.com/alx-sch/inception):** A complete WordPress deployment orchestrated within a multi-container environment using Docker Compose, connecting NGINX, MariaDB, and WordPress services over a custom bridge network.
+- **[IRC Server](https://github.com/alx-sch/IRC_server):** A complete Internet Relay Chat (IRC) server built in C++, capable of handling multiple clients simultaneously using non-blocking I/O and network sockets.
 - **[STRIKE A POSE!](https://github.com/alx-sch/STRIKE_A_POSE):** A real-time pose detection app built in one week with Python, OpenCV, and MediaPipe, showcasing rapid prototyping with modern ML libraries.
 
 💼 [LinkedIn](https://www.linkedin.com/in/alex-o-schenk/)  
