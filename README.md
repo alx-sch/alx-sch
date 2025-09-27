@@ -1,11 +1,14 @@
 ## About Me
 
-Biochemist turned funding consultant turned startup enthusiast with a passion for data and coding! 🧪 💰 🧑‍💻
+Hi, I am Alex! 👋
+I am a Software Developer studying at [42 Berlin](https://42berlin.de/), with a background in biochemistry and tech consulting & operations.
 
-Technology has always fascinated me, and people intrigue me even more. The interplay between the two, how technology shapes lives, is super captivating! With a knack for unraveling complexity and a gift for communicating ideas and visions, I've not only secured funding in the millions for dozens of R&D projects but also wrangled the whirlwind of a tech startup's operations.
+I build robust and efficient software, translating complex problems into elegant, functional code. My background in science and consulting provides a unique foundation, giving me both a rigorous approach to analytical problem-solving and a proven ability to communicate complex systems to any stakeholder.
 
-I've finally embraced the coding bug that's been buzzing within me, catching up with my long-time fascination for crafting digital solutions and bringing ideas to life!
+#### 🚀 Featured Projects
 
-📊 Completed a Data Science Bootcamp at [SPICED Academy](https://www.spiced-academy.com/en)   
-🎯 Currently expanding my coding skills at [42](https://42berlin.de/)  
+- **[nostr-nomad](https://github.com/alx-sch/nostr-nomad):** A Python-based developer utility for migrating content from Substack to the decentralized Nostr protocol, featuring API integration and image re-hosting.
+asas
+- **[STRIKE A POSE!](https://github.com/alx-sch/STRIKE_A_POSE):** A real-time pose detection app built in one week with Python, OpenCV, and MediaPipe, showcasing rapid prototyping with modern ML libraries.
+
 💼 [LinkedIn](https://www.linkedin.com/in/alex-o-schenk/)  
