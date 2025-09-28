@@ -1,7 +1,7 @@
 ## About Me
 
 Hi, I am Alex! 👋     
-I am a Software Developer studying at [42 Berlin](https://42berlin.de/), with a background in biochemistry and tech consulting & operations.
+I am a Software Engineer studying at [42 Berlin](https://42berlin.de/), with a background in biochemistry and tech consulting & operations.
 
 I build robust and efficient software, translating complex problems into elegant, functional code. My background in science and consulting provides a unique foundation, giving me both a rigorous approach to analytical problem-solving and a proven ability to communicate complex systems to any stakeholder.
 
