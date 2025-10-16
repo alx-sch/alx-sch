@@ -13,4 +13,4 @@ I build robust and efficient software, translating complex problems into elegant
 - **[IRC Server](https://github.com/alx-sch/IRC_server):** A complete Internet Relay Chat (IRC) server built in C++, capable of handling multiple clients simultaneously using non-blocking I/O and network sockets.
 - **[STRIKE A POSE!](https://github.com/alx-sch/STRIKE_A_POSE):** A real-time pose detection videogame built in one week with Python, OpenCV, and MediaPipe, showcasing rapid prototyping with modern ML libraries.
 
-💼 [LinkedIn](https://www.linkedin.com/in/alex-o-schenk/)  
+💼 **[LinkedIn](https://www.linkedin.com/in/alex-o-schenk/)**
