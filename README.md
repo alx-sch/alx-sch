@@ -3,7 +3,12 @@
 Hi, I am Alex! 👋     
 I am a Software Engineer studying at [42 Berlin](https://42berlin.de/), with a background in biochemistry and tech consulting & operations.
 
-I build robust and efficient software, translating complex problems into elegant, functional code. My background in science and consulting gives me both a rigorous approach to analytical problem-solving and a proven ability to communicate complex systems to any stakeholder.
+
+I build robust, efficient software and enjoy exploring systems deeply, translating complex problems into clean, maintainable code. I research, document, and share insights to make projects accessible and scalable. My background in science and consulting gives me a rigorous approach to analytical problem-solving and a proven ability to communicate complex systems to any stakeholder.
+
+**Key skills:** Software development, problem-solving, research, analytical thinking, documentation, code maintainability, knowledge sharing, cross-functional collaboration.
+
+---
 
 #### 🚀 Featured Projects
 
