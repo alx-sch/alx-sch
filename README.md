@@ -12,10 +12,12 @@ I build robust, efficient software and enjoy exploring systems deeply, translati
 
 #### 🚀 Featured Projects
 
-- **[nostr-nomad](https://github.com/alx-sch/nostr-nomad):** A Python tool for creators to migrate their content from Substack to the decentralized Nostr protocol, featuring API integration and automatic image re-hosting.
-- **[minishell](https://github.com/alx-sch/minishell):** A lightweight, custom shell built from scratch in C that reproduces core Bash functionalities such as command execution, pipes, and I/O redirection through direct system calls.
-- **[Inception](https://github.com/alx-sch/inception):** A complete WordPress deployment orchestrated within a multi-container environment using Docker Compose, connecting NGINX, MariaDB and WordPress services over a custom bridge network.
-- **[IRC Server](https://github.com/alx-sch/IRC_server):** A complete Internet Relay Chat (IRC) server built in C++, capable of handling multiple clients simultaneously using non-blocking I/O and network sockets.
-- **[STRIKE A POSE!](https://github.com/alx-sch/STRIKE_A_POSE):** A real-time pose detection videogame built in one week with Python, OpenCV, and MediaPipe, showcasing rapid prototyping with modern ML libraries.
+- **[NewtonFractal-ISPC](https://github.com/alx-sch/NewtonFractal-ISPC):** Parallelized Newton fractal visualizer using ISPC and C++ for high-performance graphics
+- **[nostr-nomad](https://github.com/alx-sch/nostr-nomad):** Python tool for migrating Substack content to the decentralized Nostr protocol with automated image rehosting.
+- **[minishell](https://github.com/alx-sch/minishell):** Custom shell built from scratch in C, implementing Bash-like command execution, pipes and I/O redirection.
+- **[Inception](https://github.com/alx-sch/inception):** Docker Compose orchestration of WordPress, MariaDB, and NGINX in a multi-container setup using custom-made images.
+- Docker Compose orchestration of WordPress, MariaDB, and NGINX in a multi-container setup.
+- **[IRC Server](https://github.com/alx-sch/IRC_server):** C++ Internet Relay Chat server supporting multiple clients via non-blocking I/O.
+- **[STRIKE A POSE!](https://github.com/alx-sch/STRIKE_A_POSE):** Real-time pose detection game using Python, OpenCV, and MediaPipe built in one week.
 
 💼 **[LinkedIn](https://www.linkedin.com/in/alex-o-schenk/)**
