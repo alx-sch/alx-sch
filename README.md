@@ -16,7 +16,6 @@ I build robust, efficient software and enjoy exploring systems deeply, translati
 - **[nostr-nomad](https://github.com/alx-sch/nostr-nomad):** Python tool for migrating Substack content to the decentralized Nostr protocol with automated image rehosting.
 - **[minishell](https://github.com/alx-sch/minishell):** Custom shell built from scratch in C, implementing Bash-like command execution, pipes and I/O redirection.
 - **[Inception](https://github.com/alx-sch/inception):** Docker Compose orchestration of WordPress, MariaDB, and NGINX in a multi-container setup using custom-made images.
-- Docker Compose orchestration of WordPress, MariaDB, and NGINX in a multi-container setup.
 - **[IRC Server](https://github.com/alx-sch/IRC_server):** C++ Internet Relay Chat server supporting multiple clients via non-blocking I/O.
 - **[STRIKE A POSE!](https://github.com/alx-sch/STRIKE_A_POSE):** Real-time pose detection game using Python, OpenCV, and MediaPipe built in one week.
 
