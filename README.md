@@ -38,6 +38,8 @@ Programming Languages:
 Frameworks / Libraries:     
 ![Node.js](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/nodejs-badge.svg)
 ![TailwindCSS](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/tailwindcss-badge.svg)
+![Pandas](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/pandas-badge.svg)
+![NumPy](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/numpy-badge.svg)
 
 Databases:     
 ![PostgreSQL](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/postgresql-badge.svg)
@@ -54,6 +56,7 @@ DevOps / Tools:
 ![Nginx](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/nginx-badge.svg)
 ![Bash](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/bash-badge.svg)
 ![GitHub Actions](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/githubactions-badge.svg)
+![Make](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/make-badge.svg)
 
 ---
 
