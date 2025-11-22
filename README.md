@@ -9,19 +9,6 @@ I build robust, efficient software and enjoy exploring systems deeply, translati
 
 ---
 
-#### 🚀 Featured Projects
-
-Project Name | Description |
-| :--- | :--- |
-| **[Fractal-ISPC](https://github.com/alx-sch/NewtonFractal-ISPC)** | Parallelized Newton fractal visualizer using ISPC and C++ for high-performance graphics. This project tackles  the challenges of low-level optimization and parallel computing to achieve high-performance results. |
-| **[nostr-nomad](https://github.com/alx-sch/nostr-nomad)** | Python tool for migrating Substack content to the decentralized Nostr network with automated image rehosting. The project addresses the complex, modern issues of data ownership and platform independence. |
-| **[minishell](https://github.com/alx-sch/minishell)** | Custom shell built in C from scratch, implementing Bash-like command execution, pipes and I/O redirection.This project involved a deep dive into core OS principles and process management. |
-| **[Inception](https://github.com/alx-sch/inception)** | Docker Compose orchestration of WordPress, MariaDB, and NGINX in a multi-container setup using custom-made images. This project highlights practical experience in architecting and managing complex, multi-service development environments. | 
-| **[IRC Server](https://github.com/alx-sch/IRC_server)** | C++ Internet Relay Chat server supporting multiple clients via non-blocking I/O. A complex networking project built from scratch by adhering to precise technical specifications (RFC 1459). |
-| **[STRIKE A POSE!](https://github.com/alx-sch/STRIKE_A_POSE)** | Real-time pose detection game using Python, OpenCV, and MediaPipe. The project involved integrating complex, real-time data-processing libraries into a complete and interactive application. |
-
----
-
 #### 🛠️ Skills
 
 Programming Languages:      
@@ -57,6 +44,19 @@ DevOps / Tools:
 ![Bash](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/bash-badge.svg)
 ![GitHub Actions](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/githubactions-badge.svg)
 ![Make](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/make-badge.svg)
+
+---
+
+#### 🚀 Featured Projects
+
+Project Name | Description |
+| :--- | :--- |
+| **[Fractal-ISPC](https://github.com/alx-sch/NewtonFractal-ISPC)** | Parallelized Newton fractal visualizer using ISPC and C++ for high-performance graphics. This project tackles  the challenges of low-level optimization and parallel computing to achieve high-performance results. |
+| **[nostr-nomad](https://github.com/alx-sch/nostr-nomad)** | Python tool for migrating Substack content to the decentralized Nostr network with automated image rehosting. The project addresses the complex, modern issues of data ownership and platform independence. |
+| **[minishell](https://github.com/alx-sch/minishell)** | Custom shell built in C from scratch, implementing Bash-like command execution, pipes and I/O redirection.This project involved a deep dive into core OS principles and process management. |
+| **[Inception](https://github.com/alx-sch/inception)** | Docker Compose orchestration of WordPress, MariaDB, and NGINX in a multi-container setup using custom-made images. This project highlights practical experience in architecting and managing complex, multi-service development environments. | 
+| **[IRC Server](https://github.com/alx-sch/IRC_server)** | C++ Internet Relay Chat server supporting multiple clients via non-blocking I/O. A complex networking project built from scratch by adhering to precise technical specifications (RFC 1459). |
+| **[STRIKE A POSE!](https://github.com/alx-sch/STRIKE_A_POSE)** | Real-time pose detection game using Python, OpenCV, and MediaPipe. The project involved integrating complex, real-time data-processing libraries into a complete and interactive application. |
 
 ---
 
