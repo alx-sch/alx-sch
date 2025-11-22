@@ -9,7 +9,7 @@ I build robust, efficient software and enjoy exploring systems deeply, translati
 
 ---
 
-#### 🛠️ Skills
+#### 🛠️ Tech Stack
 
 Programming Languages:      
 ![C](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/c-badge.svg)
