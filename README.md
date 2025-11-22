@@ -24,36 +24,36 @@ Project Name | Description |
 
 #### 🛠️ Skills
 
-##### Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+Programming Languages:      
+![C](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/c-badge.svg)
+![C++](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/cpp-bage.svg)
+![Python](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/python-badge.svg)
+![R](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/r-badge.svg)
+![JavaScript](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/js-badge.svg)
+![TypeScript](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/ts-badge.svg)
+![HTML](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/html-badge.svg)
+![CSS](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/css-badge.svg)
+![SQL](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/sql-badge.svg)
 
-##### Frameworks / Libraries
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Frameworks / Libraries:     
+![Node.js](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/nodejs-badge.svg)
+![TailwindCSS](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/tailwindcss-badge.svg)
 
-##### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-%2300749c.svg?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23074054.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+Databases:     
+![PostgreSQL](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/postgresql-badge.svg)
+![MariaDB](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/mariadb-badge.svg)
+![MongoDB](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/mongodb-badge.svg)
+![SQLite](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/sqlite-badge.svg)
 
-##### DevOps / Tools
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+DevOps / Tools:      
+![Git](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/git-badge.svg)
+![GitHub](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/github-badge.svg)
+![GitLab](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/gitlab-badge.svg)
+![Docker](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/docker-badge.svg)
+![Linux](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/linux-badge.svg)
+![Nginx](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/nginx-badge.svg)
+![Bash](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/bash-badge.svg)
+![GitHub Actions](https://raw.githubusercontent.com/alx-sch/alx-sch/9baccf519a76475fd45bfcb92d4ae5592f226384/.assets/githubactions-badge.svg)
 
 ---
 
