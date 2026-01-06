@@ -51,8 +51,8 @@ DevOps / Tools:
 
 Project Name | Description |
 | :--- | :--- |
-| **[GRIT](https://github.com/alx-sch/transcendence)** | WIP: Web Application. |
-| **[Fractal-ISPC](https://github.com/alx-sch/NewtonFractal-ISPC)** | Parallelized Newton fractal visualizer using ISPC and C++ for high-performance graphics. This project tackles  the challenges of low-level optimization and parallel computing to achieve high-performance results. |
+| **[GRIT](https://github.com/alx-sch/GRIT)** | **WIP:** A web app that helps people organize events, sync them to their calendars and coordinate through shared chats. |
+| **[Fractal-ISPC](https://github.com/alx-sch/NewtonFractal-ISPC)** | Parallelized Newton fractal visualizer using ISPC and C++ for high-performance graphics. This project tackles the challenges of low-level optimization and parallel computing to achieve high-performance results. |
 | **[nostr-nomad](https://github.com/alx-sch/nostr-nomad)** | Python tool for migrating Substack content to the decentralized Nostr network with automated image rehosting. The project addresses the complex, modern issues of data ownership and platform independence. |
 | **[minishell](https://github.com/alx-sch/minishell)** | Custom shell built in C from scratch, implementing Bash-like command execution, pipes and I/O redirection.This project involved a deep dive into core OS principles and process management. |
 | **[Inception](https://github.com/alx-sch/inception)** | Docker Compose orchestration of WordPress, MariaDB, and NGINX in a multi-container setup using custom-made images. This project highlights practical experience in architecting and managing complex, multi-service development environments. | 
