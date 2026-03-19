@@ -57,7 +57,7 @@ Project Name | Description |
 | **[nostr-nomad](https://github.com/alx-sch/nostr-nomad)** | A Python tool for migrating Substack content to the decentralized **Nostr** network. Features automated image rehosting to ensure full data ownership and platform independence for creators. |
 | **[minishell](https://github.com/alx-sch/minishell)** | Custom shell built in C from scratch, implementing Bash-like command execution, pipes and I/O redirection. This project involved a deep dive into core OS principles and process management. |
 | **[Inception](https://github.com/alx-sch/inception)** | Multi-container orchestration using Docker Compose to deploy a hardened WordPress, MariaDB, and NGINX environment. Focused on building custom images and architecting secure, scalable service networks. | 
-| **[IRC Server](https://github.com/alx-sch/IRC_server)** | A robust C++ chat server supporting concurrent clients through **non-blocking I/O.** Built from the ground up adhering to the RFC 1459 technical specifications. |
+| **[IRC Server](https://github.com/alx-sch/IRC_server)** | A robust C++ chat server supporting concurrent clients through non-blocking I/O. Built from the ground up adhering to the RFC 1459 technical specifications. |
 | **[STRIKE A POSE!](https://github.com/alx-sch/STRIKE_A_POSE)** | An interactive game utilizing OpenCV and MediaPipe for real-time pose detection. Successfully integrated complex computer vision libraries into a responsive, low-latency Python application. |
 
 ---
