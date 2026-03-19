@@ -28,6 +28,12 @@ Frameworks / Libraries:
 ![TailwindCSS](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/tailwindcss-badge.svg)
 ![Pandas](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/pandas-badge.svg)
 ![NumPy](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/numpy-badge.svg)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NestJS](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/nestjs-badge.svg)
+![Prisma](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/prisma-badge.svg)
+![Socket.io](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/socketio-badge.svg)
+![Zod](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/zod-badge.svg)
+![Vite](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/vite-badge.svg)
 
 Databases:     
 ![PostgreSQL](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/postgresql-badge.svg)
@@ -45,6 +51,10 @@ DevOps / Tools:
 ![Bash](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/bash-badge.svg)
 ![GitHub Actions](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/githubactions-badge.svg)
 ![Make](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/make-badge.svg)
+![Turborepo](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/turborepo-badge.svg)
+![pnpm](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/pnpm-badge.svg)
+![MinIO](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/minio-badge.svg)
+![Caddy](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/caddy-badge.svg)
 
 ---
 
