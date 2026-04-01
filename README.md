@@ -1,6 +1,6 @@
 ## Hi, I am Alex! 👋
    
-I am a Software Engineer with a background in biotechnology and tech consulting & operations.
+I am a Software Engineer with a background in biotechnology, tech consulting and operations.
 
 
 I build robust, efficient software and enjoy exploring systems deeply, translating complex problems into clean, maintainable code.   
