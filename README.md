@@ -55,6 +55,9 @@ DevOps / Tools:
 ![pnpm](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/pnpm-badge.svg)
 ![MinIO](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/minio-badge.svg)
 ![Caddy](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/caddy-badge.svg)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![OpenID Connect](https://img.shields.io/badge/OIDC-F78C40?style=for-the-badge&logo=openid&logoColor=white)
+![Nostr](https://img.shields.io/badge/Nostr-661F83?style=for-the-badge)
 
 ---
 
