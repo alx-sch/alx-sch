@@ -4,8 +4,6 @@ I am a Forward Deployed Engineer with a background in biotechnology, tech consul
 
 I enjoy exploring systems deeply, translating complex problems into clean, maintainable code. My background in science and consulting gives me a rigorous approach to analytical problem-solving and a proven ability to communicate complex systems to any stakeholder.
 
-I also build and ship with agentic tooling — AI-assisted coding agents, MCP integrations, and LLM APIs — to move faster without sacrificing maintainability.
-
 I focus heavily on research, documentation, and knowledge sharing to ensure the robust software I build remains accessible and scalable.
 
 **Key skills:** Software development, problem-solving, research, analytical thinking, documentation, code maintainability, knowledge sharing, cross-functional collaboration, stakeholder management.
