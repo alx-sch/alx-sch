@@ -75,4 +75,4 @@ Project Name | Description |
 
 ---
 
-🤝 **Let's connect!** > [LinkedIn](https://www.linkedin.com/in/alex-o-schenk/)
+🤝 **Let's connect! -> [LinkedIn](https://www.linkedin.com/in/alex-o-schenk/)**
