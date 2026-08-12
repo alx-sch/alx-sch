@@ -4,6 +4,8 @@ I am a Forward Deployed Engineer with a background in biotechnology, tech consul
 
 I enjoy exploring systems deeply, translating complex problems into clean, maintainable code. My background in science and consulting gives me a rigorous approach to analytical problem-solving and a proven ability to communicate complex systems to any stakeholder.
 
+I also build and ship with agentic tooling — AI-assisted coding agents, MCP integrations, and LLM APIs — to move faster without sacrificing maintainability.
+
 I focus heavily on research, documentation, and knowledge sharing to ensure the robust software I build remains accessible and scalable.
 
 **Key skills:** Software development, problem-solving, research, analytical thinking, documentation, code maintainability, knowledge sharing, cross-functional collaboration, stakeholder management.
@@ -34,6 +36,13 @@ Frameworks / Libraries:
 ![Socket.io](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/socketio-badge.svg)
 ![Zod](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/zod-badge.svg)
 ![Vite](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/vite-badge.svg)
+
+Agentic / AI Tooling:     
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-555555?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 Databases:     
 ![PostgreSQL](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/postgresql-badge.svg)
