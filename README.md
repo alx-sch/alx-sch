@@ -14,7 +14,7 @@ I focus heavily on research, documentation, and knowledge sharing to ensure the 
 
 Programming Languages:      
 ![C](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/c-badge.svg)
-![C++](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/cpp-bage.svg)
+![C++](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/cpp-badge.svg)
 ![Python](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/python-badge.svg)
 ![R](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/r-badge.svg)
 ![JavaScript](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/js-badge.svg)
