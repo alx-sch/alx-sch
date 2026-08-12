@@ -1,10 +1,10 @@
 ## Hi, I am Alex! 👋
-   
-I am a Software Engineer with a background in biotechnology, tech consulting and operations.
 
+I am a Forward Deployed Engineer with a background in biotechnology, tech consulting, and operations.
 
-I build robust, efficient software and enjoy exploring systems deeply, translating complex problems into clean, maintainable code.   
-I research, document and share insights to make projects accessible and scalable. My background in science and consulting gives me a rigorous approach to analytical problem-solving and a proven ability to communicate complex systems to any stakeholder.
+I enjoy exploring systems deeply, translating complex problems into clean, maintainable code. My background in science and consulting gives me a rigorous approach to analytical problem-solving and a proven ability to communicate complex systems to any stakeholder.
+
+I focus heavily on research, documentation, and knowledge sharing to ensure the robust software I build remains accessible and scalable.
 
 **Key skills:** Software development, problem-solving, research, analytical thinking, documentation, code maintainability, knowledge sharing, cross-functional collaboration, stakeholder management.
 
