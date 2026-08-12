@@ -36,11 +36,11 @@ Frameworks / Libraries:
 ![Vite](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/vite-badge.svg)
 
 Agentic / AI Tooling:     
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-555555?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/cursor-badge.svg)
+![MCP](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/mcp-badge.svg)
+![GitHub Copilot](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/copilot-badge.svg)
+![Claude](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/claude-badge.svg)
+![OpenAI](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/openai-badge.svg)
 
 Databases:     
 ![PostgreSQL](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/postgresql-badge.svg)
