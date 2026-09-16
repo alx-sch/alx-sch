@@ -1,6 +1,6 @@
 ## Hi, I am Alex! 👋
 
-I am a Forward Deployed Engineer with a background in biotechnology, tech consulting, and operations.
+I am a Forward Deployed Software Engineer with a background in biotechnology, tech consulting, and operations.
 
 I enjoy exploring systems deeply, translating complex problems into clean, maintainable code. My background in science and consulting gives me a rigorous approach to analytical problem-solving and a proven ability to communicate complex systems to any stakeholder.
 
