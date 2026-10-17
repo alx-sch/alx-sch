@@ -48,23 +48,28 @@ Databases:
 ![MongoDB](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/mongodb-badge.svg)
 ![SQLite](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/sqlite-badge.svg)
 
-DevOps / Tools:      
+Cloud & Infrastructure:   
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=serverless&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=cloudfoundry&logoColor=white)
+![Docker](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/docker-badge.svg)
+![Nginx](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/nginx-badge.svg)
+![Caddy](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/caddy-badge.svg)
+![MinIO](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/minio-badge.svg)
+
+DevOps & Tooling:      
 ![Git](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/git-badge.svg)
 ![GitHub](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/github-badge.svg)
 ![GitLab](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/gitlab-badge.svg)
-![Docker](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/docker-badge.svg)
-![Linux](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/linux-badge.svg)
-![Nginx](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/nginx-badge.svg)
-![Bash](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/bash-badge.svg)
 ![GitHub Actions](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/githubactions-badge.svg)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Linux](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/linux-badge.svg)
+![Bash](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/bash-badge.svg)
 ![Make](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/make-badge.svg)
 ![Turborepo](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/turborepo-badge.svg)
 ![pnpm](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/pnpm-badge.svg)
-![MinIO](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/minio-badge.svg)
-![Caddy](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/caddy-badge.svg)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![OpenID Connect](https://img.shields.io/badge/OIDC-F78C40?style=for-the-badge&logo=openid&logoColor=white)
-![Nostr](https://img.shields.io/badge/Nostr-661F83?style=for-the-badge)
+![Entra ID / OIDC](https://img.shields.io/badge/Entra_ID_/_OIDC-0078D4?style=for-the-badge&logo=openid&logoColor=white)
+![PowerApps](https://img.shields.io/badge/PowerApps-0078D4?style=for-the-badge&&logo=dotnet&logoColor=white)
+![Nostr](https://img.shields.io/badge/Nostr-661F83?style=for-the-badge&logo=lightning&logoColor=white)
 
 ---
 
