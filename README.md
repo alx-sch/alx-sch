@@ -40,7 +40,7 @@ Agentic / AI Tooling:
 ![MCP](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/mcp-badge.svg)
 ![GitHub Copilot](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/copilot-badge.svg)
 ![Claude](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/claude-badge.svg)
-![OpenAI](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/openai-badge.svg)
+![OpenAI](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/oai-badge.svg)
 
 Databases:     
 ![PostgreSQL](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/postgresql-badge.svg)
