@@ -49,8 +49,8 @@ Databases:
 ![SQLite](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/sqlite-badge.svg)
 
 Cloud & Infrastructure:   
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=serverless&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=cloudfoundry&logoColor=white)
+![AWS](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/aws-badge.svg)
+![Azure](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/azure-badge.svg)
 ![Docker](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/docker-badge.svg)
 ![Nginx](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/nginx-badge.svg)
 ![Caddy](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/caddy-badge.svg)
@@ -67,9 +67,9 @@ DevOps & Tooling:
 ![Make](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/make-badge.svg)
 ![Turborepo](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/turborepo-badge.svg)
 ![pnpm](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/pnpm-badge.svg)
-![Entra ID / OIDC](https://img.shields.io/badge/Entra_ID_/_OIDC-0078D4?style=for-the-badge&logo=openid&logoColor=white)
-![PowerApps](https://img.shields.io/badge/PowerApps-0078D4?style=for-the-badge&&logo=dotnet&logoColor=white)
-![Nostr](https://img.shields.io/badge/Nostr-661F83?style=for-the-badge&logo=lightning&logoColor=white)
+![Entra ID / OIDC](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/oidc-badge.svg)
+![PowerApps](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/powerapps-badge.svg)
+![Nostr](https://raw.githubusercontent.com/alx-sch/alx-sch/main/.assets/nostr-badge.svg)
 
 ---
 
